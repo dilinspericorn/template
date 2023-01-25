@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "Dilin",
+      "email": "dilin@gmail.com",
+      "cAddress": "asd",
+      "pAddress": "asd",
+      "phNo": "U2FsdGVkX1/5xZKkzSid0vJvBVGHxl+EtKbzjnwW2ik=",
+      "id": 1
+    },
+    {
+      "name": "Dilin",
+      "email": "dilin1@gmail.com",
+      "cAddress": "asd",
+      "pAddress": "asd",
+      "phNo": "U2FsdGVkX1/5xZKkzSid0vJvBVGHxl+EtKbzjnwW2ik=",
+      "id": 2
+    },
+    {
+      "name": "siyad",
+      "email": "siyad@gmail.com",
+      "cAddress": "asd",
+      "pAddress": "asd",
+      "phNo": "U2FsdGVkX1+YifAtWAyqWZNjkJQhYqNqrKHe4ONqMWQ=",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
